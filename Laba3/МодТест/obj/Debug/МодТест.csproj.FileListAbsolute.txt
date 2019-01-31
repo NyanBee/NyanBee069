@@ -1,0 +1,20 @@
+D:\6 семестр\Программная инженерия\МодТест\МодТест\bin\Debug\МодТест.exe
+D:\6 семестр\Программная инженерия\МодТест\МодТест\bin\Debug\МодТест.pdb
+D:\6 семестр\Программная инженерия\МодТест\МодТест\obj\Debug\МодТест.csprojResolveAssemblyReference.cache
+D:\6 семестр\Программная инженерия\МодТест\МодТест\obj\Debug\МодТест.exe
+D:\6 семестр\Программная инженерия\МодТест\МодТест\obj\Debug\МодТест.pdb
+C:\Users\User\Desktop\МодТест\МодТестЧасть1\МодТест\obj\Debug\МодТест.exe
+C:\Users\User\Desktop\МодТест\МодТестЧасть1\МодТест\obj\Debug\МодТест.pdb
+C:\Users\User\Desktop\МодТест\МодТестЧасть1\МодТест\bin\Debug\МодТест.exe
+C:\Users\User\Desktop\МодТест\МодТестЧасть1\МодТест\bin\Debug\МодТест.pdb
+C:\Users\User\Desktop\МодТест\МодТестЧасть1\МодТест\obj\Debug\МодТест.csprojResolveAssemblyReference.cache
+C:\Users\Khadgar\Desktop\Кот УЧЕБА\Инж. хрень\Modtest\МодТест\МодТестЧасть1\МодТест\obj\Debug\МодТест.exe
+C:\Users\Khadgar\Desktop\Кот УЧЕБА\Инж. хрень\Modtest\МодТест\МодТестЧасть1\МодТест\obj\Debug\МодТест.pdb
+C:\Users\Khadgar\Desktop\Кот УЧЕБА\Инж. хрень\Modtest\МодТест\МодТестЧасть1\МодТест\bin\Debug\МодТест.exe
+C:\Users\Khadgar\Desktop\Кот УЧЕБА\Инж. хрень\Modtest\МодТест\МодТестЧасть1\МодТест\bin\Debug\МодТест.pdb
+C:\Users\Khadgar\Desktop\Кот УЧЕБА\Инж. хрень\Modtest\МодТест\МодТестЧасть1\МодТест\obj\Debug\МодТест.csprojResolveAssemblyReference.cache
+C:\Users\Khadgar\Desktop\Кот УЧЕБА\Инж. хрень\Modtest\МодТест\Laba3\МодТест\bin\Debug\МодТест.exe
+C:\Users\Khadgar\Desktop\Кот УЧЕБА\Инж. хрень\Modtest\МодТест\Laba3\МодТест\bin\Debug\МодТест.pdb
+C:\Users\Khadgar\Desktop\Кот УЧЕБА\Инж. хрень\Modtest\МодТест\Laba3\МодТест\obj\Debug\МодТест.csprojResolveAssemblyReference.cache
+C:\Users\Khadgar\Desktop\Кот УЧЕБА\Инж. хрень\Modtest\МодТест\Laba3\МодТест\obj\Debug\МодТест.exe
+C:\Users\Khadgar\Desktop\Кот УЧЕБА\Инж. хрень\Modtest\МодТест\Laba3\МодТест\obj\Debug\МодТест.pdb
